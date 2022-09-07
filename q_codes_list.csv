@@ -1,0 +1,42 @@
+What is the name of your station?,QRA
+Will you tell me my exact frequency?,QRG
+Does my frequency vary?,QRH
+How is the tone of my transmission?,QRI
+Are you recieving me badly?,QRJ
+What is the intelligibility of my signals?,QRK
+Are you busy?,QRL
+Is my transmission being interfered with?,QRM
+Are you troubled by static?,QRN
+Shall I increase power?,QRO
+Shall I decrease power?,QRP
+Shall I send faster?,QRQ
+Shall I send more slowly?,QRS
+Shall I stop sending?,QRT
+Have you anything for me?,QRU
+Are you ready?,QRV
+Shall I inform ___ that you are calling?,QRW
+When will you call me again?,QRX
+Who is calling me?,QRZ
+What is the strength of my signals?,QSA
+Are my signals fading?,QSB
+Is my keying defective?,QSD
+Shall I send ___ messages at a time?,QSG
+Can you hear me between your signals and if so can I break in on your transmission?,QSK
+Can you acknowledge receipt?,QSL
+Shall I repeat the last message I sent to you?,QSM
+Did you hear me on ___ kHz?,QSN
+Can you communicate with ___ direct or by relay?,QSO
+Will you relay to ___?,QSP
+Do you want me to repeat my call?,QSR
+What working frequency will you use?,QSS
+Here is a broadcast message to all amateurs:,QST
+Shall I send or reply on this frequency?,QSU
+Will you send on this frequency?,QSW
+Will you listen to ... (call sign(s) on ... kHz (or MHz))?,QSX
+Shall I change to another frequency?,QSY
+Shall I send each word or group more than once?,QSZ
+Shall I cancel message number ___?,QTA
+How many messages have you to send?,QTC
+What is your location?,QTH
+What is the correct time?,QTR
+
